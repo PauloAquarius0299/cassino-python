@@ -1,0 +1,2 @@
+# Cassino em Python (não apostem) 
+Este código implementa uma simulação de uma máquina caça-níqueis (ou "slot machine") em Python, onde jogadores apostam e ganham ou perdem com base em combinações de emojis que a máquina gera aleatoriamente. O código utiliza conceitos de Programação Orientada a Objetos (POO) e algumas bibliotecas adicionais para auxiliar na simulação e visualização dos resultados.
